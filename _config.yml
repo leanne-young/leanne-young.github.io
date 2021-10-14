@@ -1,14 +1,14 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Leanne Young's Website
+description: Welcome to the fabulous website of Leanne Young! Here you'll get to learn all about her & the cool things she's been up to.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "https://leanne-young.github.io/"
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
+username: Leanne Young
+user_description: Description here
+user_title: BSc. Student at McGill University
+email: leanneyoung.official@gmail.com
 twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
 gplus_username:  lorem_ipsum
